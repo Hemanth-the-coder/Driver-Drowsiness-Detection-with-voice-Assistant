@@ -1,0 +1,1 @@
+The project employs the OpenCV library to analyze a series of image frames captured from a live video feed of a driver behind the wheel. By tracking the movements of the driver's eyes and lips, the system assesses for signs of drowsiness. Once detected, a voice-activated assistant is triggered to warn the driver, promoting safe driving practices.
